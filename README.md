@@ -3,7 +3,6 @@ Python
 Django                      
 Django REST Framework       
 PostgreSQL
-MySQL
 SQLite
 MongoDB
 Git
