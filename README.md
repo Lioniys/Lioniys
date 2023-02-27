@@ -14,16 +14,16 @@ LinkedIn: https://www.linkedin.com/in/valentin-sukhoverkhov/
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/Python-ADFF2F?style=for-the-badge&logo=Python&logoColor=000000"> <img src="https://img.shields.io/badge/Django-ADFF2F?style=for-the-badge&logo=Django&logoColor=000000">
-<img src="https://img.shields.io/badge/Git-ADFF2F?style=for-the-badge&logo=Git&logoColor=000000">
-<img src="https://img.shields.io/badge/GitHub-ADFF2F?style=for-the-badge&logo=GitHub&logoColor=000000">
-<img src="https://img.shields.io/badge/Docker-ADFF2F?style=for-the-badge&logo=Docker&logoColor=000000">
-<img src="https://img.shields.io/badge/Linux-ADFF2F?style=for-the-badge&logo=Linux&logoColor=000000">
-<img src="https://img.shields.io/badge/Bash-ADFF2F?style=for-the-badge&logo=GNU Bash&logoColor=000000">
-<img src="https://img.shields.io/badge/Celery-ADFF2F?style=for-the-badge&logo=Celery&logoColor=000000">
-<img src="https://img.shields.io/badge/Redis-ADFF2F?style=for-the-badge&logo=Redis&logoColor=000000">
-<img src="https://img.shields.io/badge/PostgreSQL-ADFF2F?style=for-the-badge&logo=PostgreSQL&logoColor=000000">
-<img src="https://img.shields.io/badge/MySQL-ADFF2F?style=for-the-badge&logo=MySQL&logoColor=000000">
-<img src="https://img.shields.io/badge/SQLite-ADFF2F?style=for-the-badge&logo=SQLite&logoColor=000000">
-<img src="https://img.shields.io/badge/MongoDB-ADFF2F?style=for-the-badge&logo=MongoDB&logoColor=000000">
-<img src="https://img.shields.io/badge/Postman-ADFF2F?style=for-the-badge&logo=Postman&logoColor=000000">
+<img src="https://img.shields.io/badge/Python-F4A460?style=for-the-badge&logo=Python&logoColor=000000"> <img src="https://img.shields.io/badge/Django-F4A460?style=for-the-badge&logo=Django&logoColor=000000">
+<img src="https://img.shields.io/badge/Git-F4A460?style=for-the-badge&logo=Git&logoColor=000000">
+<img src="https://img.shields.io/badge/GitHub-F4A460?style=for-the-badge&logo=GitHub&logoColor=000000">
+<img src="https://img.shields.io/badge/Docker-F4A460?style=for-the-badge&logo=Docker&logoColor=000000">
+<img src="https://img.shields.io/badge/Linux-F4A460?style=for-the-badge&logo=Linux&logoColor=000000">
+<img src="https://img.shields.io/badge/Bash-F4A460?style=for-the-badge&logo=GNU Bash&logoColor=000000">
+
+<img src="https://img.shields.io/badge/Celery-F4A460?style=for-the-badge&logo=Celery&logoColor=000000"> <img src="https://img.shields.io/badge/Redis-F4A460?style=for-the-badge&logo=Redis&logoColor=000000">
+<img src="https://img.shields.io/badge/PostgreSQL-F4A460?style=for-the-badge&logo=PostgreSQL&logoColor=000000">
+<img src="https://img.shields.io/badge/MySQL-F4A460?style=for-the-badge&logo=MySQL&logoColor=000000">
+<img src="https://img.shields.io/badge/SQLite-F4A460?style=for-the-badge&logo=SQLite&logoColor=000000">
+<img src="https://img.shields.io/badge/MongoDB-F4A460?style=for-the-badge&logo=MongoDB&logoColor=000000">
+<img src="https://img.shields.io/badge/Postman-F4A460?style=for-the-badge&logo=Postman&logoColor=000000">
