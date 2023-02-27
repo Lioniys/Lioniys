@@ -1,2 +1,29 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+# Valentin Sukhoverkhov
+### Python Developer
+
+<br><br>
+<details><summary> 📫 How to reach me : </summary>
+Email: lioniys1998@gmail.com
+<br>
+Phone: +380660991274
+<br>
+Telegram: https://t.me/Lioniysss
+<br>
+LinkedIn: https://www.linkedin.com/in/valentin-sukhoverkhov/
+</details>
+
+### Languages and Tools:
+
+<img src="https://img.shields.io/badge/Python-ADFF2F?style=for-the-badge&logo=Python&logoColor=000000"> <img src="https://img.shields.io/badge/Django-ADFF2F?style=for-the-badge&logo=Django&logoColor=000000">
+<img src="https://img.shields.io/badge/Git-ADFF2F?style=for-the-badge&logo=Git&logoColor=000000">
+<img src="https://img.shields.io/badge/GitHub-ADFF2F?style=for-the-badge&logo=GitHub&logoColor=000000">
+<img src="https://img.shields.io/badge/Docker-ADFF2F?style=for-the-badge&logo=Docker&logoColor=000000">
+<img src="https://img.shields.io/badge/Linux-ADFF2F?style=for-the-badge&logo=Linux&logoColor=000000">
+<img src="https://img.shields.io/badge/Bash-ADFF2F?style=for-the-badge&logo=GNU Bash&logoColor=000000">
+<img src="https://img.shields.io/badge/Celery-ADFF2F?style=for-the-badge&logo=Celery&logoColor=000000">
+<img src="https://img.shields.io/badge/Redis-ADFF2F?style=for-the-badge&logo=Redis&logoColor=000000">
+<img src="https://img.shields.io/badge/PostgreSQL-ADFF2F?style=for-the-badge&logo=PostgreSQL&logoColor=000000">
+<img src="https://img.shields.io/badge/MySQL-ADFF2F?style=for-the-badge&logo=MySQL&logoColor=000000">
+<img src="https://img.shields.io/badge/SQLite-ADFF2F?style=for-the-badge&logo=SQLite&logoColor=000000">
+<img src="https://img.shields.io/badge/MongoDB-ADFF2F?style=for-the-badge&logo=MongoDB&logoColor=000000">
+<img src="https://img.shields.io/badge/Postman-ADFF2F?style=for-the-badge&logo=Postman&logoColor=000000">
