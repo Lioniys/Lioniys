@@ -11,7 +11,7 @@ Email: lioniys1998@gmail.com
 <br>
 Phone: +380660991274
 <br>
-Telegram: t.me/Lioniysss
+Telegram: https://t.me/Lioniysss
 <br>
 LinkedIn: https://www.linkedin.com/in/valentin-sukhoverkhov/
 </details>
