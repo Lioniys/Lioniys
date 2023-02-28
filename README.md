@@ -1,7 +1,11 @@
 # Valentin Sukhoverkhov
 ### Python Developer
-
-<br><br>
+Python backend developer, now actively studying technology in this direction.
+I'm learning on my own. More than one year of Python development experience.
+I know SOLID principles, REST architecture, MVC pattern. Experience using Docker and AWS EC2.
+Familiar with the development processes within the team. Such as Git, JIRA, Scrum. 
+Also somewhat familiar with CI/CD, GitHub actions, Unit testing and Postman.
+<br>
 <details><summary> 📫 How to reach me : </summary>
 Email: lioniys1998@gmail.com
 <br>
