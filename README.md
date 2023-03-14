@@ -35,3 +35,4 @@ LinkedIn: https://www.linkedin.com/in/valentin-sukhoverkhov/
 <img src="https://img.shields.io/badge/SQLite-F4A460?style=for-the-badge&logo=SQLite&logoColor=000000">
 <img src="https://img.shields.io/badge/MongoDB-F4A460?style=for-the-badge&logo=MongoDB&logoColor=000000">
 <img src="https://img.shields.io/badge/Postman-F4A460?style=for-the-badge&logo=Postman&logoColor=000000">
+
