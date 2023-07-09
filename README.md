@@ -1,15 +1,11 @@
 # Valentin Sukhoverkhov
 ### Python Developer
-Python backend developer, now actively studying technology in this direction.
-<br>
-I'm learning on my own. More than one year of Python development experience.
-<br>
-I know SOLID principles, REST architecture, MVC pattern. Experience using Docker and AWS EC2.
-<br>
-Familiar with the development processes within the team. Such as Git, JIRA, Scrum. 
-<br>
-Also somewhat familiar with CI/CD, GitHub actions, Unit testing and Postman.
-<br>
+I'm a Python backend developer, I'm 25 years old.  
+I am actively developing in this direction.  
+I have more than two years of Python development experience.  
+I'm familiar with SOLID, DI, design patterns.  
+Familiar with team development processes.  
+
 <details><summary> 📫 How to reach me : </summary>
 Email: lioniys1998@gmail.com
 <br>
@@ -22,17 +18,15 @@ LinkedIn: https://www.linkedin.com/in/valentin-sukhoverkhov/
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/Python-F4A460?style=for-the-badge&logo=Python&logoColor=000000"> <img src="https://img.shields.io/badge/Django-F4A460?style=for-the-badge&logo=Django&logoColor=000000">
-<img src="https://img.shields.io/badge/Git-F4A460?style=for-the-badge&logo=Git&logoColor=000000">
-<img src="https://img.shields.io/badge/GitHub-F4A460?style=for-the-badge&logo=GitHub&logoColor=000000">
-<img src="https://img.shields.io/badge/Docker-F4A460?style=for-the-badge&logo=Docker&logoColor=000000">
-<img src="https://img.shields.io/badge/Linux-F4A460?style=for-the-badge&logo=Linux&logoColor=000000">
-<img src="https://img.shields.io/badge/Bash-F4A460?style=for-the-badge&logo=GNU Bash&logoColor=000000">
-
-<img src="https://img.shields.io/badge/Celery-F4A460?style=for-the-badge&logo=Celery&logoColor=000000"> <img src="https://img.shields.io/badge/Redis-F4A460?style=for-the-badge&logo=Redis&logoColor=000000">
-<img src="https://img.shields.io/badge/PostgreSQL-F4A460?style=for-the-badge&logo=PostgreSQL&logoColor=000000">
-<img src="https://img.shields.io/badge/MySQL-F4A460?style=for-the-badge&logo=MySQL&logoColor=000000">
-<img src="https://img.shields.io/badge/SQLite-F4A460?style=for-the-badge&logo=SQLite&logoColor=000000">
-<img src="https://img.shields.io/badge/MongoDB-F4A460?style=for-the-badge&logo=MongoDB&logoColor=000000">
-<img src="https://img.shields.io/badge/Postman-F4A460?style=for-the-badge&logo=Postman&logoColor=000000">
-
+Python  
+FastAPI, SQLAlchemy, Asyncio  
+WebSocket, MongoDB  
+Django, Django REST Framework  
+Celery, Redis  
+React, Bootstrap  
+PostgreSQL, MySQL   
+MariaDB,SQLite  
+Linux, Nginx, AWS EC2  
+JavaScript, HTML, CSS  
+Docker, Docker Compose  
+Git, GitHub  
